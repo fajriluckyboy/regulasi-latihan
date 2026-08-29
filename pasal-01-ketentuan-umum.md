@@ -17,3 +17,9 @@ Regulasi ini dapat diubah sewaktu-waktu melalui
 mekanisme pengajuan perubahan yang diatur dalam
 dokumen ini, dan setiap perubahan wajib melalui proses
 persetujuan tim hukum sebelum disahkan.
+
+## Ayat 4
+
+Anggota yang terbukti melanggar ketentuan umum ini
+akan dikenakan sanksi sesuai mekanisme yang diatur
+pada Pasal 3 tentang Sanksi.
